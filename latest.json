@@ -1,5 +1,5 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "windows": "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/latest/download/JustOnWebDownloader-Setup.exe",
   "macos":   "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/latest/download/JustOnWeb-Downloader.dmg"
 }
