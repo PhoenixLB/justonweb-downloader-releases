@@ -1,5 +1,5 @@
 {
-  "version": "1.5.78",
+  "version": "1.6.0",
   "windows": "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/latest/download/JOWD-Setup.exe",
   "macos":   "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/latest/download/JOWD.dmg"
 }
